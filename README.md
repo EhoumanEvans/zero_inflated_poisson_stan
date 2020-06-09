@@ -23,13 +23,13 @@ Sample dataset can be downloaded and there is the description of the dataset on 
 (This URL includes conventional long-winded scripts using generalized-linear model ("GLM").)
 
 Histogram of "count" from the sample dataset.
-![zip_hist](https://github.com/s-87date/zero_inflated_poisson_stan/tree/master/images/zip_hist.png)
+![zip_hist](https://github.com/s-87date/zero_inflated_poisson_stan/blob/master/images/zip_hist.png)
 
 ZIP model function.
 
-![zip_function](https://github.com/s-87date/zero_inflated_poisson_stan/tree/master/images/ZIP_function.png)
+![zip_function](https://github.com/s-87date/zero_inflated_poisson_stan/blob/master/images/ZIP_function.png)
 
-![model_function](https://github.com/s-87date/zero_inflated_poisson_stan/tree/master/images/model_function.png)
+![model_function](https://github.com/s-87date/zero_inflated_poisson_stan/blob/master/images/model_function.png)
 
 Meanings of parameters in sample dataset,
 ```
