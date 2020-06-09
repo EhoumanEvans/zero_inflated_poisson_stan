@@ -23,13 +23,13 @@ Sample dataset can be downloaded and there is the description of the dataset on 
 (This URL includes conventional long-winded scripts using generalized-linear model ("GLM").)
 
 Histogram of "count" from the sample dataset.
-![zip_hist](https://github.ibm.com/codeblue/bayesian-zero-inflated-poisson-regression/blob/images/zip_hist.png)
+![zip_hist](https://github.com/s-87date/zero_inflated_poisson_stan/tree/master/images/zip_hist.png)
 
 ZIP model function.
 
-![zip_function](https://github.ibm.com/codeblue/bayesian-zero-inflated-poisson-regression/blob/images/ZIP_function.png)
+![zip_function](https://github.com/s-87date/zero_inflated_poisson_stan/tree/master/images/ZIP_function.png)
 
-![model_function](https://github.ibm.com/codeblue/bayesian-zero-inflated-poisson-regression/blob/images/model_function.png)
+![model_function](https://github.com/s-87date/zero_inflated_poisson_stan/tree/master/images/model_function.png)
 
 Meanings of parameters in sample dataset,
 ```
@@ -94,5 +94,3 @@ Explanatoriness means you can get readable relationship between objective variab
 ## Main references
 https://github.com/MatsuuraKentaro/RStanBook
 (Written in Japanese)
-
-\_at\_ -> @
