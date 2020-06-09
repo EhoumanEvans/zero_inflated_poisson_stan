@@ -20,7 +20,6 @@ But, I guess you have often seen some datasets including too many zero records (
 The ZIP model is useful for the datasets.
 
 Sample dataset can be downloaded and there is the description of the dataset on https://stats.idre.ucla.edu/r/dae/zip/.  
-(This URL includes conventional long-winded scripts using generalized-linear model ("GLM").)
 
 Histogram of "count" from the sample dataset.
 ![zip_hist](https://github.com/s-87date/zero_inflated_poisson_stan/blob/master/images/zip_hist.png)
